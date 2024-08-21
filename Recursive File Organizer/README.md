@@ -1,7 +1,5 @@
 # Recursive File Organizer
 
-## Description
-
 **Recursive File Organizer** is a Bash script designed to automate the process of organizing and sorting files into specific directories based on their types. The script prompts the user to create or name directories, then recursively scans a given directory (or a default one) and moves files like executables, libraries, source files, and header files into their respective folders.
 
 This script is particularly useful for developers who want to maintain a clean and organized file structure without manually sorting files. With the ability to handle nested directories and check for existing files, **Recursive File Organizer** ensures that your workspace remains tidy and efficient.

@@ -1,6 +1,5 @@
 # Dictionary Pattern Search
 
-## Overview
 The **Dictionary Pattern Search** project is a Bash script and C program combination designed to search for specific word patterns within a dictionary file. The script automates the process of generating various word patterns-combinations, and checking these combinations against a dictionary. The results are stored in separate files for further analysis.
 
 ## Features

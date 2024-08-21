@@ -1,6 +1,7 @@
 # Bash Scripting Projects
 
-## Overview
+## Description
+
 The **Bash Scripting Projects** repository contains a collection of Bash scripts designed to perform various automation and file management tasks. Each project is a standalone script with specific functionality, demonstrating practical uses of Bash scripting in Linux environments.
 
 ## Projects Included
