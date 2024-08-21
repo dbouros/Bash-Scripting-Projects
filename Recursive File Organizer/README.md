@@ -4,7 +4,7 @@
 
 This script is particularly useful for developers who want to maintain a clean and organized file structure without manually sorting files. With the ability to handle nested directories and check for existing files, **Recursive File Organizer** ensures that your workspace remains tidy and efficient.
 
-## Requirements
+## Prerequisites
 
 To successfully run **Recursive File Organizer**, ensure that your system meets the following requirements:
 
@@ -33,7 +33,7 @@ To successfully run **Recursive File Organizer**, ensure that your system meets 
     chmod +x RecursiveFileOrganizer.sh
 ```
 
-## Running the Script
+## Running the Project
 
 To run the script, ensure that the file `RecursiveFileOrganizer.sh` is placed and executed inside the Desktop directory, then you have two main options:
 

@@ -59,6 +59,6 @@ Ensure that GCC is installed on your system. The script will automatically compi
 ```
 Replace `dictionary.txt` with the name of your dictionary file if it differs.
 
-### 3. Expected Output
+### 3. Output
 - The script will generate multiple text files in the `results` directory on your Desktop.
 - A summary of the total number of generated files, non-empty files, and empty files will be displayed in the terminal.
